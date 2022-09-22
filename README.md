@@ -1,5 +1,5 @@
 # Hi 👋, I'm Moshood Gbadamosi
-TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss"}
+<!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss"}-->
 <img src="https://komarev.com/ghpvc/?username=morshud&color=brightgreen" alt="watching_count" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2BF715&width=435&lines=FullStack+Developer;Frontend+Developer;VueJs+Developer%2C+Laravel+Developer;Javascript+Developer+and+Much+More)](https://git.io/typing-svg)
