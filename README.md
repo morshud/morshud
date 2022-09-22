@@ -18,7 +18,6 @@
 <a href="https://dev.to/morshud" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 ## Language & Tools
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logoColor=#FF61F6)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=morshud&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ## Contributions:
