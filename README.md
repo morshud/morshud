@@ -17,3 +17,7 @@
 <a href="https://www.facebook.com/morshud_lotus" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://dev.to/morshud" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
+## Contributions:
+![Contribution](https://activity-graph.herokuapp.com/graph?username=morshud&theme=react-dark&hide_border=true&area=true)
+![Snake animation](https://github.com/morshud/github-readme/blob/output/github-contribution-snake.svg)
+
